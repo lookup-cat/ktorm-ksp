@@ -15,7 +15,6 @@ configureMavenPublishing()
 for (jdkVendor in arrayOf(
     JvmVendorSpec.ADOPTIUM,
     JvmVendorSpec.ADOPTOPENJDK,
-    JvmVendorSpec.AMAZON,
     JvmVendorSpec.AZUL,
     JvmVendorSpec.BELLSOFT,
     JvmVendorSpec.HEWLETT_PACKARD,
